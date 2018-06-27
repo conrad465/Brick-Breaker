@@ -1,0 +1,38 @@
+Plan for Breakout game Conrad Mitchell
+
+In researching the game, I came across a variant called Breakout Pro Modern DX ball. I was interested 
+in this version because of the clean looking graphics and the frequency and variety of powerups. 
+The small details like the comet-like tail of the ball and the 3D blocks and shadowing made the game seem 
+complete. Useful power-ups like multiple balls, sticky paddles, and a rocket ball were offset by negative 
+ enhancers like faster game speed and a shorter paddle which added an additional layer to gameplay.
+ 
+ I created a general outline of the levels I want to create and have added them as levels 1 2 and 3.
+ 
+ I have decided on three different types of blocks-- power-up blocks that will drop a 
+ randomized powerup when destroyed, explosive blocks that will do damage to surrounding blocks 
+ when destroyed and blocks that require varying hits to destroy 
+ 
+Power-ups I want to include are as follows-- multiple ball power up, larger paddle, sticky paddle 
+(you can aim everytime the ball hits the paddle), color power (when the ball hits a block of a color 
+all blocks of similar color take damage)
+
+In addition to positive power-ups there will be power-ups of negative consequence-- shorter paddle, 
+faster game speed.
+
+Cheats I want include paddle as large as the screen and a ball that goes through all blocks on the 
+first hit. (addition: backwardsd controls)
+
+In addition to these power-ups, the paddle will return the ball at different angles dependent on where it
+is hit. 
+
+Finally, as a something extra, I want to include a second paddle on the top of the screen that can be 
+controlled by the user. I believe this will add increased control and further
+engage the user because he/she will be responsible for two sides of the game instead of just the bottom
+
+
+
+
+
+
+
+ 
